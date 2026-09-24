@@ -1,0 +1,4 @@
+CP210x USB to UART Bridge VCP Drivers
+
+Link: Silicon Labs
+https://www.silabs.com/software-and-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
